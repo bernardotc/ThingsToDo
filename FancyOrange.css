@@ -265,7 +265,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: Copse;
+  font-family: Georgia;
   font-size: 16px;
   line-height: 1.2;
   color: #333333;
@@ -354,7 +354,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: Copse;
+  font-family: Georgia;
   font-weight: 7;
   line-height: 1.1;
   color: #ff8c3a;
